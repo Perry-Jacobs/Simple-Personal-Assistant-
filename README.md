@@ -15,7 +15,7 @@ This Python program is a simple personal assistant that collects user informatio
 - Option to restart the program
 
 ## Requirements
-- Python 3.x
+- Python 3.6 and above
 - Standard Python libraries (os, random, time, typing)
 
 ## How to Use
